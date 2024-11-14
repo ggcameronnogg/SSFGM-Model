@@ -15,4 +15,4 @@ Please see our manuscript for more details.<br/>
 ## Data
 
 
-## Training the example data
+## Training the Example Data
