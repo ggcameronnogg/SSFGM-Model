@@ -15,6 +15,6 @@ Please see our manuscript for more details.<br/>
 ## Data
 
 
-## Training the Example Data
+## Training The Example Data
 
 ## Surface Features Extruction
