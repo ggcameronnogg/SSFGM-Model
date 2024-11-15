@@ -1,4 +1,5 @@
 # SSFGM-Model
+This repository contains the source code for the paper Multimodal Geometric Learning-based Antimicrobial Peptide Prediction Enhanced by AlphaFold2 Structures and Surface Features
 ![image](https://github.com/ggcameronnogg/SSFGM-Model/blob/main/model.png)
 <br/>
 Please see our manuscript for more details.<br/>
