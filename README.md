@@ -3,6 +3,7 @@ This repository contains the source code for the paper Multimodal Geometric Lear
 ![image](https://github.com/ggcameronnogg/SSFGM-Model/blob/main/model.png)
 <br/>
 Please see our manuscript for more details.<br/>
+
 ## Requirements
 Python version: 3.10.12<br/>
 Numpy version: 1.23.1<br/>
@@ -14,7 +15,18 @@ ESM version: 2.0.0<br/>
 re version: 2.2.1<br/>
 Transformers version: 4.41.1
 
+## Data
+The datasets for this paper are Benchmark Dataset 1 and Benchmark Dataset 2, which can be viewed in the Data directory.
+
+## Usage
+#### 1. Features Extraction
+### Sequence features 
+refer to the coding in the Embedding-Method folder.
+
+### Structure Features
 ## Alphafolf Colab Notebook <a href="https://colab.research.google.com/drive/1vco6QQgs6eYJq5XmvQejZyQQDwXkPEu7" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+### Molecular Surface Features
 ## Docker tutorial for MaSIF.
 ## Installation
 
@@ -59,7 +71,7 @@ If you want to run a prediction on multiple chains (e.g. a multidomain protein) 
 root@b30c52bcb86f:/masif/data/masif_site# ./data_prepare_one.sh --file /path/to/myfile/4ZQK.pdb 4ZQK_A
 ```
 
-## Data
+
 
 
 ## Training The Example Data
