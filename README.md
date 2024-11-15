@@ -13,7 +13,7 @@ ESM version: 2.0.0<br/>
 re version: 2.2.1<br/>
 Transformers version: 4.41.1
 
-### Alphafolf Colab Notebook <a href="https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+### Alphafolf Colab Notebook <a href="https://colab.research.google.com/drive/1vco6QQgs6eYJq5XmvQejZyQQDwXkPEu7" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 ## Data
