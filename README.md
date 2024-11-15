@@ -19,14 +19,13 @@ Transformers version: 4.41.1
 The datasets for this paper are Benchmark Dataset 1 and Benchmark Dataset 2, which can be viewed in the Data directory.
 
 ## Usage
-#### 1. Features Extraction
-### Sequence features 
+#### Sequence features Extraction
 refer to the coding in the Embedding-Method folder.
 
-### Structure Features
+#### Structure Features Extraction
 ## Alphafolf Colab Notebook <a href="https://colab.research.google.com/drive/1vco6QQgs6eYJq5XmvQejZyQQDwXkPEu7" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-### Molecular Surface Features
+### Molecular Surface Features Extraction
 ## Docker tutorial for MaSIF.
 ## Installation
 
@@ -40,7 +39,7 @@ You now start a local container with MaSIF. The first step should be to update t
 root@b30c52bcb86f:/masif# git pull 
 ```
 
-## MaSIF-site
+### MaSIF-site
 
 ### Running MaSIF-site on a single protein from a PDB id
 
