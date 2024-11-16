@@ -69,5 +69,5 @@ If you want to run a prediction on multiple chains (e.g. a multidomain protein) 
 root@b30c52bcb86f:/masif/data/masif_site# ./data_prepare_one.sh --file /path/to/myfile/4ZQK.pdb 4ZQK_A
 ```
 
-## Training The Example Data
+## Training the Example Data
 There are examples of features that have been extracted in example1. You can directly click “new_combined_model.ipynb” for training and verification.
