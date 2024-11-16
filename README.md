@@ -23,7 +23,7 @@ The datasets for this paper are Benchmark Dataset 1 and Benchmark Dataset 2, whi
 refer to the coding in the Embedding-Method folder.
 
 ### Structure Features Extraction
-#### Alphafolf Colab Notebook <a href="https://colab.research.google.com/drive/1vco6QQgs6eYJq5XmvQejZyQQDwXkPEu7" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+Alphafolf Colab Notebook <a href="https://colab.research.google.com/drive/1vco6QQgs6eYJq5XmvQejZyQQDwXkPEu7" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ### Docker tutorial for Molecular Surface Features Extraction
 ### Docker tutorial for MaSIF.
