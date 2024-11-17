@@ -70,4 +70,4 @@ root@b30c52bcb86f:/masif/data/masif_site# ./data_prepare_one.sh --file /path/to/
 ```
 
 ## Training the Example Data
-There are examples of features that have been extracted in example1. You can directly click “new_combined_model.ipynb” for training and verification.
+There are examples of features that have been extracted in example1. You can directly click “new_combined_model.ipynb” for training and verification. The example_surface_feature is uploaded to https://drive.google.com/drive/folders/1rtlc8DcBeV6yOxmlXIwjoT6VXuYgaIFg?usp=drive_link
